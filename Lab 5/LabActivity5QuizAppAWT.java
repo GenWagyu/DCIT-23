@@ -20,7 +20,7 @@ public class LabActivity5QuizAppAWT extends Frame implements ActionListener {
         {"A. Hardware", "B. Data", "C. Network", "D. Software"}
     };
 
-    int[] correctAnswers = {2, 0, 3}; // indices of correct answers
+    int[] correctAnswers = {2, 0, 3}; // index of correct answers
     int currentQuestion = 0;
     int score = 0;
 
