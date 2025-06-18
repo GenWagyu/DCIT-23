@@ -1,3 +1,5 @@
+download all the files and run on CMD to load all the GIFs
+
 Special numbers:
 
 376006
